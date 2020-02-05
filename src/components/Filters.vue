@@ -24,7 +24,7 @@ export default {
   .filters {
     background: lightgrey;
     width: 100%;
-    height: 300px;
+    height: 100%;
     padding: 20px;
     box-sizing: border-box;
 
